@@ -16,6 +16,8 @@
 -  Alignment(CSS Grid and Flexbox).
 -  Transition and Amination.
 -  Responsive Design / Media query.
+
+
 3) SASS 
     Sass stands for Syntactically Awesome Stylesheet
     Sass is an extension to CSS
