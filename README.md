@@ -1,5 +1,5 @@
-# Web-development-learning-personal-
-# I am starting web development course.and i know some basic python.
+## Web-development-learning-personal- (This is made for tracking the self learning purposes, but you can also use this path if you would like.)
+
 # Roadmap for web development, i want to learn the concept of frontend and backend both.
 
 ### week 1 plan:
@@ -9,9 +9,7 @@
 - Make a portfolio website with github pages. and use some formatting using jekyl.
 - Learn hosting through Netlify trail version.
 
-
-
-### Resources to follow to learn the above concept:
+## Resources to follow to learn the above concept:
 - [free code camp  Responsive Web Design course](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5)
 - coding addict yt channel and projects
 -  coding addict html and css project.  [htlm and css projects](https://www.youtube.com/playlist?list=PLnHJACx3NwAdhoqmE5i_dqSnYHd04doh0)
