@@ -1,7 +1,7 @@
  [web page of this repository.](https://satyamjhadev.github.io/Full-Stack-Web-Development/)
 
 Any views and feadback is much appreciated.just post that in Discussion tab of this reprository, or create a issue. if This repo is adding any value to your Tech career, you can support me by following on [Satyam's Github](https://github.com/satyamjhadev) and You can DM me on Twitter [Satyam's twitter](https://twitter.com/_satyaj_) if you need any help with repo.
-
+##  Motivation
 - This repository is made with motivation from [kunal-kushwaha](https://github.com/kunal-kushwaha) and [Eddie jaoude](https://github.com/eddiejaoude) with key principal:
 - collab first code second.
 - learn in public.
