@@ -45,7 +45,7 @@
 
 
 
-## Resources to follow to learn the above concept:
+# Resources to follow to learn the above concept:
 - [free code camp  Responsive Web Design course](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5)
 - coding addict yt channel and projects
 -  coding addict html and css project.  [htlm and css projects](https://www.youtube.com/playlist?list=PLnHJACx3NwAdhoqmE5i_dqSnYHd04doh0)
