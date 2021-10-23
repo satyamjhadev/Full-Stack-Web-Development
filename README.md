@@ -1,4 +1,4 @@
-# [web page of this repository.](https://satyamjhadev.github.io/web-development-learning/)
+# [web page of this repository.](https://satyamjhadev.github.io/Full-Stack-Web-Development/)
 
 ## Web-development-learning-personal- (This is made for tracking the self learning purposes, but you can also use this path if you would like.)
 
