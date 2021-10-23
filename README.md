@@ -57,7 +57,7 @@ Any views and feadback is much appreciated.just post that in Discussion tab of t
 # Resources to follow to learn the above concept:
 - [free code camp  Responsive Web Design course](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5)
 - [coding addict html and css project.](https://www.youtube.com/playlist?list=PLnHJACx3NwAdhoqmE5i_dqSnYHd04doh0)
-- [harshit vashist in hindi](https://www.youtube.com/playlist?list=PLwgFb6VsUj_mtXvKDupqdWB2JBiek8YPB) harshit vashist in hindi)
+- [harshit vashist in hindi](https://www.youtube.com/playlist?list=PLwgFb6VsUj_mtXvKDupqdWB2JBiek8YPB) harshit vashist in hindi
 - [playlist for html and css videos.](https://www.youtube.com/playlist?list=PLs1ia4sQXjZ9NptyjWt7eBCIl2xzW56y5)
 - [Code with harry Html and css Hindi playlist.](https://www.youtube.com/watch?v=6mbwJ2xhgzM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg)
 - [MDN web docs](https://developer.mozilla.org/en-US/docs/Web/Tutorials)
