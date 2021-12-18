@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Linear-gradient</title>
+    <style>
+      body {
+        background-color: goldenrod;
+      }
+      @media screen and (max-width: 1000px) {
+        body {
+          background-color: red;
+        }
+      }
+      #grad1 {
+        height: 100px;
+        background-image: linear-gradient(0deg, red, yellow);
+      }
+      #grad2 {
+        height: 100px;
+        background-image: linear-gradient(90deg, blue, red);
+      }
+      #grad3 {
+        height: 100px;
+        background-image: linear-gradient(180deg, orange, green);
+      }
+
+      #grad4 {
+        height: 500px;
+        background-image: linear-gradient(-90deg, black, gold);
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Linear-gradient</h1>
+
+    <div id="grad1" style="text-align: center">0deg</div>
+    <div id="grad2" style="text-align: center">90deg</div>
+    <div id="grad3" style="text-align: center">180deg</div>
+    <div id="grad4" style="text-align: center">-90deg</div>
+  </body>
+</html>

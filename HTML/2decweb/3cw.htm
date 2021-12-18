@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Linear-gradient</title>
+    <style>
+      #grad1 {
+        height: 200px;
+        background-image: linear-gradient(
+          90deg,
+          purple,
+          red,
+          yellow,
+          darkblue,
+          green,
+          beige,
+          pink,
+          black,
+          brown
+        );
+      }
+      @media screen and (max-width: 1000px) {
+        body {
+          background-color: black;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <h1>linear-gradient</h1>
+    <div id="grad1"></div>
+  </body>
+</html>

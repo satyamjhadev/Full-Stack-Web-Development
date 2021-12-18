@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      div {
+        background-color: rgb(14, 2, 2);
+        position: relative;
+        animation-name: mymove;
+        animation-duration: 4s;
+        amination: mymove 5s 2;
+        amination-fill-mode: both;
+        border-radius: 200px;
+      }
+      #div1 {
+        amination-timing-function: linear;
+      }
+      #div2 {
+        amination-timing-function: ease;
+      }
+      #div3 {
+        amination-timing-function: ease-in;
+      }
+      #div4 {
+        amination-timing-function: ease-out;
+      }
+      #div5 {
+        amination-timing-function: ease-in-out;
+      }
+
+      @keyframes mymove {
+        from {
+          background-color: brown;
+          top: 100px;
+          left: 50px;
+        }
+        to {
+          background-color: green;
+          top: 60px;
+          right: 60px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <h1>css amination</h1>
+    <div id="div1">linear</div>
+    <div id="div2">ease</div>
+    <div id="div3">ease-in</div>
+    <div id="div4">ease-out</div>
+    <div id="div5">ease-in-out</div>
+  </body>
+</html>

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      div {
+        background-color: red;
+        position: relative;
+        animation-name: example;
+        animation-duration: 4s;
+        animation-iteration-count: 5;
+        amination-direction: normal;
+      }
+      @keyframes example {
+        0% {
+          background-color: green;
+          left: 0px;
+          top: 0px;
+        }
+        25% {
+          background-color: aquamarine;
+          left: 50px;
+          top: 40px;
+        }
+        50% {
+          background-color: black;
+          left: 50px;
+          bottom: 70px;
+        }
+        70% {
+          background-color: blue;
+          left: 70%;
+          right: 80px;
+        }
+        80% {
+          background-color: aqua;
+          left: 90%;
+          top: 30px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div></div>
+  </body>
+</html>
