@@ -2,7 +2,7 @@
 
 Any views and feadback is much appreciated.just post that in Discussion tab of this reprository, or create a issue. if This repo is adding any value to your Tech career, you can support me by following on [Satyam's Github](https://github.com/satyamjhadev) and You can DM me on Twitter [Satyam's twitter](https://twitter.com/_satyaj_) if you need any help with repo.
 ##  Motivation
-- This repository is made with motivation from [kunal-kushwaha](https://github.com/kunal-kushwaha) and [Eddie jaoude](https://github.com/eddiejaoude) with key principal:
+- This repository is made with  with key principals:-
 - collab first code second.
 - learn in public.
 - Involve and contribute to Open source projects.
@@ -28,7 +28,7 @@ Any views and feadback is much appreciated.just post that in Discussion tab of t
 - Learn hosting through Netlify trail version.
    
 
-# Week 2 plan:
+# Week 3 and 4 plan:
 
 ## 3) SASS 
    - Sass stands for Syntactically Awesome Stylesheet.
@@ -41,7 +41,7 @@ Any views and feadback is much appreciated.just post that in Discussion tab of t
 - Tailwind CSS
 
 
-# week 3 plan:
+# week 5-6 plan:
 
 ## 5) UI Design:
 - colour and contrast (make sure text is readable.)
@@ -51,7 +51,7 @@ Any views and feadback is much appreciated.just post that in Discussion tab of t
 - Typography( text typefaces,sizing)
 - [recommended yt video](https://www.youtube.com/watch?v=0JCUH5daCCE)
 
-## 6) [projects and challenges in HTML and CSS](https://www.frontendmentor.io/challenges)
+## 7-10) [projects and challenges in HTML and CSS](https://www.frontendmentor.io/challenges)
 
 
 # Resources to follow to learn the above concept:
