@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h1 id="html title">Html forms</h1>
+    <span
+      >The HTML id attribute is used to specify a unique id for an HTML element.
+
+      <br />You cannot have more than one element<br />
+      with the same id in an HTML document.</span
+    >
+    <span
+      >The id attribute is used to point to a specific style declaration in a
+      style sheet. It is also used by JavaScript to access and manipulate the
+      element with the specific id.
+
+      <br />
+      The syntax for id is: write a hash character (#), followed by an id
+      name.<br />
+      Then, define the CSS properties within curly braces {}. In the following
+      example<br />
+      we have an h1 element that points to the id name "myHeader". This h1
+      element will be styled according to the #myHeader style definition in the
+      head section: The id name is case sensitive! Note: The id name must
+      contain at least one character,<br />
+      cannot start with a number, and must not contain whitespaces (spaces,
+      tabs, etc.).
+    </span>
+    <>
+      <label for="username">Enter username</label>
+      <input type="text" id="username" name="username" />
+      <br />
+      <br />
+      <label for="email">Enter email</label>
+      <input type="email" id="email" name="email" />
+      <br />
+      <br />
+      <label for="password">password:</label>
+      <input type="password" id="password" name="password" />
+      <p>name attribute is given to group element so linking btw diffent
+          setion of the form. it is  name tag helping to select only 
+          one value in the followng bcz it has linked 
+          all the radio buttons through name="gender" in one type defention.
+          name attribute also helps the backend severs to process and group data.
+
+
+          <br>
+          <br>
+          <br>
+          value attribute is helping the server to see which value<br>
+           is submitted upon submitting
+
+
+          
+
+
+      </p>
+      <p>
+          select your gender:
+      </p>
+      
+    
+    
+        <input type="radio" name="gender" value="male" id="option-1">  <br>
+        <label for="option-1">Male</label>
+        <br>
+        <br>
+        <br>
+        <input type="radio" name="gender" value="female" id="option-2"> 
+              <label for="option-2">FEMale</label>
+        <br>
+        <br>
+        <br>
+        <input type="radio" name="gender" value="other" id="option-3">  <br>
+      <label for="option-3">Other</label>
+
+    </form>
+  </body>
+</html>
