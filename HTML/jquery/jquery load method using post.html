@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+      $(document).ready(function () {
+        $("button").click(function () {
+          $.post(
+            "exampletest.php",
+            {
+              name: "student",
+              city: "solan",x-
+            },
+            function (data, status) {
+              alert("Data: " + data + "\nstatus: " + status);
+            }
+          );
+        });
+      });
+      2;
+    </script>
+  </head>
+  <body>
+    <button class="vertical-center">
+      send an http Get request to a page and get the results
+    </button>
+  </body>
+</html>

@@ -1,0 +1,26 @@
+<html>
+  <head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+      $(document).ready(function () {
+        $("#flip").click(function () {
+          $("#panel").slideToggle("slow");
+        });
+      });
+    </script>
+    <style>
+      #panel, #flip{
+        background-color: pink;
+        padding: 5px;
+        text-align: center;
+      }
+      #panel, #flip{
+
+        padding: 5px;
+    </style>
+  </head>
+  <body>
+    <div id="flip">Click to slide down panel</div>
+    <div id="panel">Hello world</div>
+  </body>
+</html>

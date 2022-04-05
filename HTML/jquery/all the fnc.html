@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+  <head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+      $(document).ready(function(){
+        $("p").on({
+          mouseenter:function(){
+            $(this).css("background-color","gray");
+          },
+          mouseleave:function(){
+            $(this).css("background-color","blue");
+
+          },
+          click:function(){
+            $(this).css("background-color","green")
+          }
+
+        });
+      });
+       
+    </script>
+  </head>
+
+  <body>
+    <p>click to move the mouse pointer over the pargraph</p>
+    
+  </body>
+</html>

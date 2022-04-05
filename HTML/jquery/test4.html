@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+      $(document).ready(function () {
+        $("#btn1").mouseover(function () {
+          $("#test1").text("Hello world");
+        });
+        $("#btn1").mouseout(function () {
+          $("#test1").text("This is paragraph");
+        });
+        $("#btn2").mouseover(function () {
+          $("#test2").html("<b>Hello world</b>");
+        });
+        $("#btn2").mouseout(function () {
+          $("#test2").html("<b> This is bold</b>");
+        });
+
+        $("#btn3").mouseover(function () {
+          $("#test3").val("Hello world");
+        });
+        $("#btn3").mouseout(function () {
+          $("#test3").val("This is over");
+        });
+      });
+    </script>
+  </head>
+  <body>
+    <p id="test1">This is a paragraph.</p>
+    <p id="test2">This is another paragraph.</p>
+    <p>input field: <input type="text" id="test3" value="Mickey Mouse" /></p>
+    <button id="btn1">Show Test</button>
+    <button id="btn2">Show Html</button>
+    <button id="btn3">Show Value</button>
+  </body>
+</html>
